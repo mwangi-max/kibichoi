@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kibichoi/static/css/main.2bb4420c.css",
+    "main.js": "/kibichoi/static/js/main.f3b9ce9b.js",
+    "index.html": "/kibichoi/index.html",
+    "main.2bb4420c.css.map": "/kibichoi/static/css/main.2bb4420c.css.map",
+    "main.f3b9ce9b.js.map": "/kibichoi/static/js/main.f3b9ce9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb4420c.css",
+    "static/js/main.f3b9ce9b.js"
+  ]
+}
